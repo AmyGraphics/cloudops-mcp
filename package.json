@@ -1,0 +1,9 @@
+{
+  "name": "cloudops-mcp",
+  "version": "1.0.0",
+  "description": "Autonomous DevOps, Docker, K8s, Nginx & CI/CD Architect MCP for Cursor, Claude Code, and Windsurf",
+  "main": "index.js",
+  "type": "module",
+  "author": "tofan96you",
+  "license": "MIT"
+}

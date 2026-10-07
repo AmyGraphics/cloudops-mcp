@@ -1,0 +1,20 @@
+name: cloudops-mcp
+displayName: CloudOps - Autonomous DevOps & Docker Architect MCP
+description: Universal DevOps engineer for Cursor, Claude & Windsurf. Generates production multi-stage Dockerfiles, Docker Compose stacks, TLS 1.3 Nginx configs, GitHub Actions CI/CD workflows, and performs container security audits.
+category: developer-tools
+homepage: https://github.com/AmyGraphics/cloudops-mcp
+repository: https://github.com/AmyGraphics/cloudops-mcp
+icon: https://raw.githubusercontent.com/AmyGraphics/cloudops-mcp/main/icon.png
+keywords:
+  - devops
+  - docker
+  - dockerfile
+  - docker-compose
+  - nginx
+  - github-actions
+  - cicd
+  - cursor
+  - claude
+startCommand:
+  type: http
+  url: https://cloudops-api.agentweb-hub.workers.dev/mcp
